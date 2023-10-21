@@ -17,6 +17,12 @@
           "file": "animal.json",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsJKf9sqqfBT209WjSKMM8yiQwsbUG8O-jQ&usqp=CAU",
           "levels": 5
+        }, 
+       { 
+          "name": "Brand",
+          "file": "brand.json",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3qTuji5SqiF4C5Xzf5y8IuI_1VGqwdEOXIw&usqp=CAU",
+          "levels": 5
         }
       ]
 }
