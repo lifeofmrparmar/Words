@@ -11,6 +11,12 @@
           "file": "cricket.json",
           "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcC0zNDktZmVsaXhydXNzZWxsNTI3OS14Mi5qcGc.jpg",
           "levels": 5
+        },
+     { 
+          "name": "Animal",
+          "file": "animal.json",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1uh4_N64D4CPGMYpcw2vi_m3KgzAd_252w&usqp=CAU",
+          "levels": 5
         }
       ]
 }
