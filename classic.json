@@ -1,0 +1,356 @@
+{
+  "data": [
+    {
+      "name": "Level 1",
+      "id": "classic_1",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "laptop",
+          "image_url": "https://fastly.picsum.photos/id/9/5000/3269.jpg?hmac=cZKbaLeduq7rNB8X-bigYO8bvPIWtT-mh8GRXtU3vPc"
+        },
+        {
+          "id": 2,
+          "name": "book",
+          "image_url": "https://fastly.picsum.photos/id/24/4855/1803.jpg?hmac=ICVhP1pUXDLXaTkgwDJinSUS59UWalMxf4SOIWb9Ui4"
+        }
+      ]
+    },
+    {
+      "name": "Level 2",
+      "id": "classic_2",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 3",
+      "id": "classic_3",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 4",
+      "id": "classic_4",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 5",
+      "id": "classic_5",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 6",
+      "id": "classic_6",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 7",
+      "id": "classic_7",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 8",
+      "id": "classic_8",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 9",
+      "id": "classic_9",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 10",
+      "id": "classic_10",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 11",
+      "id": "classic_11",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 12",
+      "id": "classic_12",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 13",
+      "id": "classic_13",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 14",
+      "id": "classic_14",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+     {
+      "name": "Level 15",
+      "id": "classic_15",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+    {
+      "name": "Level 16",
+      "id": "classic_16",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+    {
+      "name": "Level 17",
+      "id": "classic_17",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+    {
+      "name": "Level 18",
+      "id": "classic_18",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+    {
+      "name": "Level 19",
+      "id": "classic_19",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+    {
+      "name": "Level 20",
+      "id": "classic_20",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+    {
+      "name": "Level 21",
+      "id": "classic_21",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    },
+    {
+      "name": "Level 22",
+      "id": "classic_22",
+      "level_data": [
+        {
+          "id": 1,
+          "name": "sandal",
+          "image_url": "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+        },
+        {
+          "id": 2,
+          "name": "dog",
+          "image_url": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+      ]
+    }
+  ]
+}

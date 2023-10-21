@@ -1,0 +1,16 @@
+{
+  "category_list": [
+        { 
+          "name": "flag",
+          "file": "flag.json",
+          "image": "https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/india-flag-icon.png",
+          "levels": 4
+        },
+    { 
+          "name": "cricket",
+          "file": "cricket.json",
+          "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcC0zNDktZmVsaXhydXNzZWxsNTI3OS14Mi5qcGc.jpg",
+          "levels": 5
+        }
+      ]
+}
