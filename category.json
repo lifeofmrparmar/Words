@@ -26,7 +26,7 @@
         },
        { 
           "name": "Marvel",
-          "file": "animal.json",
+          "file": "marvel.json",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-TTmDkKRIPCgjs0eluxU1NP3YjWtAWV-Gg5-tJi8uG3XJukOBrxyOK1Qh&s=10",
           "levels": 5
         }
