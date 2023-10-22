@@ -19,6 +19,7 @@
     {
       "name": "Level 2",
       "id": "cricket_2",
+      "is_premium": true,
       "level_data": [
         {
           "id": 1,
