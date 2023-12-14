@@ -19,16 +19,10 @@
           "levels": 5
         }, 
        { 
-          "name": "Brand",
-          "file": "brand.json",
+          "name": "Classic",
+          "file": "classic.json",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3qTuji5SqiF4C5Xzf5y8IuI_1VGqwdEOXIw&usqp=CAU",
           "levels": 5
         },
-       { 
-          "name": "Marvel",
-          "file": "marvel.json",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-TTmDkKRIPCgjs0eluxU1NP3YjWtAWV-Gg5-tJi8uG3XJukOBrxyOK1Qh&s=10",
-          "levels": 5
-        }
       ]
 }
