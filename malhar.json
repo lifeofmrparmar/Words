@@ -9,9 +9,16 @@
   {
   "name": "Masala Dhosa",
   "detail": "Dhosa stuffed with masala",
-  "category": "dhosa",
+  "category": "Dhosa",
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVA8B1a-FKAm5LI-FweozUYusSMhbJlFtrCw&usqp=CAU",
   "price": "100"
+  },
+    {
+  "name": "Pow Bhaji",
+  "detail": "Indian pow bhaji special",
+  "category": "Pow Bhaji",
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYTNtcSw1Sik1wu2L5YOI5E-WlqDzI9U8yA&usqp=CAU",
+  "price": "120"
   }
   ]
 }
