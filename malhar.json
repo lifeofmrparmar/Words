@@ -22,18 +22,18 @@
   } ,
     
     {
-  "name": "Pow Bhaji",
+  "name": "Pow (2 pice)",
   "detail": "2 powbhaji pow",
-  "category": "Pow (2 pice)",
+  "category": "Pow Bhaji",
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49GP5BSV8EZKNMM33hwbnHhXEBZIYMFSN7Q&usqp=CAU",
   "price": "20"
   }
     ,
     
     {
-  "name": "Dhosa",
+  "name": "Mysore Dhosa",
   "detail": "Mysore dhosa withunlimoted sambhar and coconut chatny",
-  "category": "Mysore Dhosa",
+  "category": "Dhosa",
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxfTB_swYYjTBauyHylX3snmDWz0BGrv1RAA&usqp=CAU",
   "price": "200"
   }
