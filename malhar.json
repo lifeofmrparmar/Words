@@ -19,6 +19,23 @@
   "category": "Pow Bhaji",
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYTNtcSw1Sik1wu2L5YOI5E-WlqDzI9U8yA&usqp=CAU",
   "price": "120"
+  } ,
+    
+    {
+  "name": "Pow Bhaji",
+  "detail": "2 powbhaji pow",
+  "category": "Pow (2 pice)",
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49GP5BSV8EZKNMM33hwbnHhXEBZIYMFSN7Q&usqp=CAU",
+  "price": "20"
+  }
+    ,
+    
+    {
+  "name": "Dhosa",
+  "detail": "Mysore dhosa withunlimoted sambhar and coconut chatny",
+  "category": "Mysore Dhosa",
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxfTB_swYYjTBauyHylX3snmDWz0BGrv1RAA&usqp=CAU",
+  "price": "200"
   }
   ]
 }
