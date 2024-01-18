@@ -1,0 +1,54 @@
+{
+  "logo": "https://lifeofmrparmar.github.io/Words/IMG_1430-modified.png",
+  "full_name": "Anchor Khushi",
+  "short_name": "Anchor Khushi",
+  "primary_color": "448AFFFF",
+  "secondary_color": "FFFFFFFF",
+  "phone": "917069126788",
+  "banner_images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4B2_rKUQrxZh_mncplQb6WCEevrpYtrxiw&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMxo79iLu5b1pMQmo8Px714KE5xhB8UUIf6Q&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgzUsf-qs4KziVmYSYp641hCwlC2G7gOOhoA&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTos2O7mpWmu1UF1N9aOvIH0nNNojfR_Ye-5Q&usqp=CAU"],
+  "product_list": [
+  {
+  "name": "Masala Dhosa",
+  "detail": "Dhosa stuffed with masala",
+  "category": "Dhosa",
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVA8B1a-FKAm5LI-FweozUYusSMhbJlFtrCw&usqp=CAU",
+  "price": "100",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "isVideo" : true
+  },
+  {
+  "name": "Masala Dhosa",
+  "detail": "Dhosa stuffed with masala",
+  "category": "Dhosa",
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVA8B1a-FKAm5LI-FweozUYusSMhbJlFtrCw&usqp=CAU",
+  "price": "100"
+  },
+    {
+  "name": "Pow Bhaji",
+  "detail": "Indian pow bhaji special",
+  "category": "Pow Bhaji",
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYTNtcSw1Sik1wu2L5YOI5E-WlqDzI9U8yA&usqp=CAU",
+  "price": "120"
+  } ,
+    
+    {
+  "name": "Pow (2 pice)",
+  "detail": "2 powbhaji pow",
+  "category": "Pow Bhaji",
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49GP5BSV8EZKNMM33hwbnHhXEBZIYMFSN7Q&usqp=CAU",
+  "price": "20"
+  }
+    ,
+    
+    {
+  "name": "Mysore Dhosa",
+  "detail": "Mysore dhosa withunlimoted sambhar and coconut chatny",
+  "category": "Dhosa",
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxfTB_swYYjTBauyHylX3snmDWz0BGrv1RAA&usqp=CAU",
+  "price": "200"
+  }
+  ]
+}
