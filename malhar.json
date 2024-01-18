@@ -16,7 +16,7 @@
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVA8B1a-FKAm5LI-FweozUYusSMhbJlFtrCw&usqp=CAU",
   "price": "100",
     "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "isVideo" true
+    "isVideo" : true
   },
   {
   "name": "Masala Dhosa",
