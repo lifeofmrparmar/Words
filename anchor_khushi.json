@@ -7,7 +7,7 @@
   "phone": "917487865763",
   "banner_images": ["https://lifeofmrparmar.github.io/Words/IMG_1430.png",
     "https://lifeofmrparmar.github.io/Words/IMG_1436.png",
-    "https://lifeofmrparmar.github.io/Words/IMG_1437.png",
+    "https://lifeofmrparmar.github.io/Words/IMG_1437.png"
   ],
   "product_list": [
   {
@@ -18,16 +18,16 @@
     "isVideo" : true
   },
   {
-  "image":"https://lifeofmrparmar.github.io/Words/IMG_1438.png",
+  "image":"https://lifeofmrparmar.github.io/Words/IMG_1438.png"
   },
     {
-  "image":"https://lifeofmrparmar.github.io/Words/IMG_1439.png",
+  "image":"https://lifeofmrparmar.github.io/Words/IMG_1439.png"
   } ,
   
     
     {
   
-  "image":"https://lifeofmrparmar.github.io/Words/IMG_1440.png",
+  "image":"https://lifeofmrparmar.github.io/Words/IMG_1440.png"
   }
   ]
 }
